@@ -1,0 +1,9 @@
+﻿Puerta Ingreso,Guardia Ingreso,Puerta Salida,Guardia de Salida,Tipo de entrada,Nombre del visitante,Visitante o Proveedor,Identificación (foto),Tipo de Vehículo,Placas,Color del Vehículo,Fecha de Ingreso,Hora de Ingreso,Fecha de Salida,Hora de Salida,Tiempo de Estadía,Casa visitada o Dirección,Nombre de la Persona Visitada,Motivo de la visita,¿Pre-registrado?
+Entrada,magali,,,Código QR,Alejandro cardenas,Visitante,Abrir foto,,,,2020-02-24,11:32:41,,,,,,,
+Entrada,magali,Salida,magali,Código QR,Usuario test,Visitante,Abrir foto,,,,2020-02-28,14:11:24,2020-02-28,14:11:49,00:00:25,,,,
+Entrada,magali,Salida,magali,Código QR,ksje,Visitante,Abrir foto,,,,2020-03-02,23:10:22,2020-03-02,23:10:51,00:00:29,,,,
+Entrada,magali,,,Código QR,ksje,Visitante,Abrir foto,,,,2020-03-03,13:46:32,,,,,,,
+Entrada,magali,Salida,magali,Código QR,Usuario dos,Visitante,Abrir foto,Automóvil,hgf1234,,2020-03-06,17:03:52,2020-03-06,17:04:12,00:00:20,x,Luis,fiesta hector,
+Entrada,magali,Salida,magali,Código QR,hector,Visitante,Abrir foto,Automóvil,jjjjjj,,2020-03-07,19:04:41,2020-03-07,19:04:58,00:00:17,x,Luis,hector,
+Entrada,magali,Salida,magali,Código QR,ksje,Visitante,Abrir foto,Pick-up,JJJJJJ,,2020-03-10,20:26:21,2020-03-10,20:28:05,00:01:44,x,Luis,testing,
+Entrada,magali,,,Manual,jardineria,Proveedor Corporativo,Abrir foto,,,,2020-03-19,15:43:29,,,,Direccion,TestGera,jardineria,
