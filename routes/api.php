@@ -55,4 +55,11 @@ Route::post('services','ServiceController@store');
 Route::put('services/{service}','ServiceController@update');
 Route::get('services','ServiceController@list');
 
+Route::post('providers','ProviderController@store');
+Route::put('providers/{provider}','ProviderController@update');
+Route::get('providers','ProviderController@list');
+
+Route::post('business','BusinessController@store');
+Route::put('business/{business}','BusinessController@update');
+Route::get('business','BusinessController@list');
 
