@@ -63,3 +63,7 @@ Route::post('business','BusinessController@store');
 Route::put('business/{business}','BusinessController@update');
 Route::get('business','BusinessController@list');
 
+Route::post('employee','EmployeeController@store');
+Route::put('employee/{employe}','EmployeeController@update');
+Route::get('employee','EmployeeController@list');
+
